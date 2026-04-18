@@ -64,11 +64,6 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
 </p>
 
-### 📊 Data & Visualization
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas"/>
-</p>
-
 ### ⚙️ Tools & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker"/>
